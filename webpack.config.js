@@ -5,8 +5,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.join(__dirname, '/dist'),
-    filename: 'react-keyed-file-browser.js',
-    library: 'react-keyed-file-browser',
+    filename: 'chi-react-keyed-file-browser.js',
+    library: 'chi-react-keyed-file-browser',
     libraryTarget: 'umd',
   },
   module: {
